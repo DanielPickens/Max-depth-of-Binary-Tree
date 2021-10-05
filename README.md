@@ -1,5 +1,5 @@
 # Max-depth-of-Binary-Tree
-My solution with 3 lines of code. Faster runtime than 96%
+My solution with 4 lines of code. Faster runtime than 96%
 
 
 
